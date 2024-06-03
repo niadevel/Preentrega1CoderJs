@@ -63,4 +63,5 @@ const addElement = () => {
     clientes.push(cliente)
 }
 
+main()
 
